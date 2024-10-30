@@ -1,17 +1,2 @@
 Hello, world!
-2024-10-14 <- this was the commit for the day!!
-2024-10-15 <- this was the commit for the day!!
-2024-10-16 <- this was the commit for the day!!
-2024-10-17 <- this was the commit for the day!!
-2024-10-18 <- this was the commit for the day!!
-2024-10-19 <- this was the commit for the day!!
-2024-10-20 <- this was the commit for the day!!
-2024-10-21 <- this was the commit for the day!!
-2024-10-22 <- this was the commit for the day!!
-2024-10-23 <- this was the commit for the day!!
-2024-10-24 <- this was the commit for the day!!
-2024-10-25 <- this was the commit for the day!!
-2024-10-26 <- this was the commit for the day!!
-2024-10-27 <- this was the commit for the day!!
-2024-10-28 <- this was the commit for the day!!
-2024-10-29 <- this was the commit for the day!!
+2024-10-30 <- this was the commit for the day!!
